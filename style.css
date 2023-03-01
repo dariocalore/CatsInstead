@@ -1,0 +1,52 @@
+
+*{
+    font-family: 'Hind', sans-serif;
+    font-family: 'Itim', cursive;
+}
+body{
+    width: 260px;
+}
+#main {
+    border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAAAAXNSR0IArs4c6QAAAs5JREFUeF7tnNlywzAIRZ3//+h2PNMHS0p0uAYvdW4fA2I5AqyoGb+W8e/nzWfbj16dXNUH84eL1Xgl/R7Omo1kYIf+4cTAwaH5GehIP9WBBnoA0L4F3kHeuq3WV+31CGg9yVV7U/0V3qkOl2WhlqINVQGcmp+B8imHNrjZMAO9AVD12EMtR8cY1V/1SCH/6QolB9kZp9rv9Q00S7Bbb6AGqhHwDNV4obaBIiJNwUA1Xqj9dUDVYw4RJIDkj+yTXPpm8+arMNmf5he5baIACRCtP/pgn41PWm+g42WNKxQO9lKFEU26naN2XO3TTCR5IMZGRR0BkRxmMVD8JG9sR4IhgyQ30I4AASO5gRrodARNuzrS8tVDXa3Ys/VTHWeg43YZaHEJG+h/B1oc/7PM7ZmhzyJQnI2BGmgxgWJzd7htKk4JzaWe4nS3YaAPvL7DkipWcIU+DWg2n7udJNT7Vsq/yS8yQ8kgyQ2UCIlyAxWBkbqBEiFRbqAiMFI3UCIkyg1UBEbqBkqERLmBisBI3UCJkCg3UBEYqX890B6Q+t33bgBpw0vziyRf6pCyu0Bemp+B8gsX+j1O/xSndAcvqEByWZpfpEIpIMs3BAy0uBwM1ECLCRSb2/MvkH4NDfW7dYEar6RvoGOFpgrGQA00PfSkFlbfnLZWqPpLimp91R7dNVDL0kxX42n0DXQseAPtmLhCAQgNTaookqsjZKq/p+UpQTVAekio/rIVqvpLz9CUw8C771T7dL2mVqjq30BVYqBvoAaqEfAM1XihtoEiIk3BQDVeqH05UPXcSBmpx5Sjz6Gn5he5vqPLhGzABqqcywJv7jJQA20INB0caWeaiSSnmUsjg9ZHcpjZoPhJ/pnuB69kkOQExEA7Aga6ARJpFwJGcldo8UNHBXq1fqpAIhVKM26PjauhZR5S09j3wEjt4J1J/sWWys9Axx1OAf0FGfFATCX0M3wAAAAASUVORK5CYII=") 28 /  28px / 0 round;
+    border-width:  28px;
+    border-style:  solid;
+    padding: 10px;
+    font-size: 18px;
+    margin: auto;
+}
+
+.input-style{
+    font-size: 16px;
+    text-decoration: none;
+    color: #000;
+    border: 3px solid;
+    margin: 5px 0 5px 0 ;
+}
+
+.button-54 {
+    margin: 0 5px 0 0;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-54:active {
+  box-shadow: 0px 0px 0px 0px;
+  top: 5px;
+  left: 5px;
+}
+
+@media (min-width: 768px) {
+  .button-54 {
+    padding: 0.25em 0.75em;
+  }
+}
