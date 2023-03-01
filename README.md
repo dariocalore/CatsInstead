@@ -1,20 +1,12 @@
-[![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/issues)
-[![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7VPAUVB3/)
-[![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
-[![18app on forum.italia.it](https://img.shields.io/badge/Forum-18app-blue.svg)](https://forum.italia.it/c/18app-carta-docente)
 
-# Annunci / Status del progetto
+# CatsInstead
 
-# Titolo
+> A Chrome Extension to replace every image of something you don't wanna see with cats, isn't that wonderful?
 
-> Sottotitolo / Slogan / Descrizione breve
 
-*Read this in other languages: [English](README.EN.md).*
+## Screenshot
 
-## Immagini e GIF
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
+![](https://lh3.googleusercontent.com/NkLJ1il7jikwMNR8RtPWYSnIrGJOdYm15cEw7zOGUL_JkqC8khfO-IExmzk3egvUmCYpGvMigveyb4LZZF76vURS2-M=w640-h400-e365-rj-sc0x00ffffff)
 
 # Indice
 
