@@ -9,4 +9,5 @@
 ![](https://lh3.googleusercontent.com/NkLJ1il7jikwMNR8RtPWYSnIrGJOdYm15cEw7zOGUL_JkqC8khfO-IExmzk3egvUmCYpGvMigveyb4LZZF76vURS2-M=w640-h400-e365-rj-sc0x00ffffff)
 
 # How to add this extension 
-Just add it to chrome here: https://chrome.google.com/webstore/detail/cats-instead/hdcpefgccaekomklgafbchckdnnbcmjb?hl=it
+Just add it to Chrome here: 
+https://chrome.google.com/webstore/detail/cats-instead/hdcpefgccaekomklgafbchckdnnbcmjb?hl=it
